@@ -10,28 +10,13 @@ It is machine learning based news heading based classifier that use to classify 
 3) Train MultinomialNB , Logistic Regression and LinearSVC
    
 ##### PROJECT STRUCTURE 
-TEXT_CLASSIFICATION/
-|----app/
-|------|---app.py
-|
-|----DATA/
-|------|---symentic_text_data.csv
-|
-|----model/
-|------|---my_model.joblib
-|------|---vectorizer.joblib
-|
-|----preprocessing/
-|-------|---pre.py
-|
-|----venv/
-|____readme.md
+![file structure of project](image-1.png)
 
 ##### INSTALLATION
 
 --> follow this rule to run this project locally
 
-1) git colne 
+1) git colne https://github.com/jrDhiraj/news_classifier.git
 2) cd TEXT_CLASSIFICATION
 3) pip install requirments.txt
    
